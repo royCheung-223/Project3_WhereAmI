@@ -19,4 +19,4 @@ Open a new terminal
 cd Project3_WhereAmI
 rosrun teleop_twist_keyboard teleop_twist_keyboard.py
 ```
-![TurboVNC_ unix_1 () - noVNC - Google Chrome 7_14_2021 11_10_56 AM](https://user-images.githubusercontent.com/83933967/125554981-07fdf2e0-7d6e-44c1-9d30-16e63ad31826.png)
+![TurboVNC_ unix_1 () - noVNC - Google Chrome 7_14_2021 2_55_14 PM](https://user-images.githubusercontent.com/83933967/125577545-d50e0f32-71e4-4703-857b-cbf4ac8cf60a.png)
